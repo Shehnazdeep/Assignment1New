@@ -29,7 +29,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
-        android:layout_weight="1"
         android:orientation="horizontal">
 
         <RadioButton
@@ -64,6 +63,25 @@
             android:textColor="#02395A"
             android:textSize="24sp"
             android:textStyle="bold" />
+
+
     </RadioGroup>
+
+    <Button
+        android:id="@+id/play_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#E6C4EC"
+        android:fontFamily="cursive"
+        android:text="@string/play"
+        android:textColor="#090F30"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" />
+
 </LinearLayout>
 
