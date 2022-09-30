@@ -14,4 +14,14 @@
     <string name="box_2">Box 2</string>
     <string name="box_3">Box 3</string>
     <string name="play">Play</string>
+    <string name="textview">TextView</string>
+    <string name="game_result">Game Result</string>
+    <string name="the_box_you_have_selected_have">The Box you have selected have</string>
+    <string name="box_1_contains">Box 1 contains :~</string>
+    <string name="something">something</string>
+    <string name="box_2_contains">Box 2 contains :~</string>
+    <string name="box_3_contains">Box 3 contains :~</string>
+    <string name="your_prize_is">Your Prize is :~</string>
+    <string name="tv">TV</string>
+    <string name="try_again">Try Again!</string>
 </resources>
