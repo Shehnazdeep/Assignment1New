@@ -17,9 +17,53 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:background="#EFE5E5"
+        android:fontFamily="cursive"
         android:text="@string/choose_your_box"
-        android:textColor="@color/pink_800"
-        android:textSize="24sp"
+        android:textColor="#D61010"
+        android:textSize="48sp"
         android:textStyle="bold" />
+
+    <RadioGroup
+        android:id="@+id/user_choice_box"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/choice_box1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:buttonTint="#7C7C0A"
+            android:fontFamily="cursive"
+            android:text="@string/box_1"
+            android:textColor="#02395A"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <RadioButton
+            android:id="@+id/choice_box2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:buttonTint="#7C7C0A"
+            android:fontFamily="cursive"
+            android:text="@string/box_2"
+            android:textColor="#02395A"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <RadioButton
+            android:id="@+id/choice_box3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:buttonTint="#7C7C0A"
+            android:fontFamily="cursive"
+            android:text="@string/box_3"
+            android:textColor="#02395A"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+    </RadioGroup>
 </LinearLayout>
 
