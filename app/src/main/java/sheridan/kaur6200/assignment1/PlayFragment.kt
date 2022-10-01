@@ -33,7 +33,7 @@ class PlayFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
         binding.playButton
             .setOnClickListener {
-                findNavController().navigate(R.id.action_SecondFragment_to_FirstFragment)
+                findNavController().navigate(R.id.action_FirstFragment_to_SecondFragment)
             }
 
     }
