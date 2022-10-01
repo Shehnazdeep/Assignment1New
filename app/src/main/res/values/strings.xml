@@ -1,14 +1,20 @@
 <resources>
     <string name="app_name">Assignment1</string>
     <string name="action_settings">Settings</string>
+
+    <!-- menu items -->
+    <string name="action_about">About</string>
+
+    <!-- about dialog -->
+    <string name="author">Shehnazdeep Kaur, Sheridan College, 2022</string>
+
     <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
+    <string name="first_fragment_label">Play</string>
+    <string name="second_fragment_label">Result</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
 
-    <string name="hello_first_fragment">Hello first fragment</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
     <string name="choose_your_box">Choose your Box!</string>
     <string name="box_1">Box 1</string>
     <string name="box_2">Box 2</string>
