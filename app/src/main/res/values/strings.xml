@@ -8,6 +8,17 @@
     <!-- about dialog -->
     <string name="author">Shehnazdeep Kaur, Sheridan College, 2022</string>
 
+    <!--Prize Items-->
+    <string name="TV">TV</string>
+    <string name="IPHONE">IPHONE</string>
+    <string name="TABLET">TABLET</string>
+    <string name="IPAD">IPAD</string>
+    <string name="CHOCOLATES">CHOCOLATES</string>
+    <string name="HEADSET">HEADSET</string>
+    <string name="SOFA">SOFA</string>
+    <string name="MICROWAVE">MICROWAVE</string>
+
+
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">Play</string>
     <string name="second_fragment_label">Result</string>
@@ -22,6 +33,7 @@
     <string name="play">Play</string>
     <string name="textview">TextView</string>
     <string name="game_result">Game Result</string>
+    <string name="make_your_choice">Make Your Choice</string>
     <string name="the_box_you_have_selected_have">The Box you have selected have</string>
     <string name="box_1_contains">Box 1 contains :~</string>
     <string name="something">something</string>
